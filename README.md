@@ -1,2 +1,2 @@
 # gdiplus-basics
-Experimentation with basic GDI+ functionality.
+Experimentation with basic Windows GDI+ functionality.
